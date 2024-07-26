@@ -10,7 +10,9 @@ Hi! I'm now a fourth-year PhD student supervised by <a href="https://scholar.goo
 - 2020.06 - 2023.06, M.E., Optical Engineering, UESTC, China
 
 {% include_relative _includes/Conference.md %}
+
 {% include_relative _includes/Journal.md %}
+
 ## Honors and Awards
 - 2022.06, Finalist Prize of Image Denoising Track (Top1.5%), ZTE Algorithm Competition.
 
