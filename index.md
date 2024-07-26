@@ -14,8 +14,9 @@ Hi! I'm now a fourth-year PhD student supervised by <a href="https://scholar.goo
 
 {% include_relative _includes/Journal.md %}
 
-## Honors and Awards
-- 2022.06, Finalist Prize of Image Denoising Track (Top1.5%), ZTE Algorithm Competition.
+<!-- ## Honors and Awards
+- 2023, National scholarship. -->
+
 
 ## Public Services
 - Reviewer: IEEE TWC, TSP, TVT, TCCN, WCL, Vehicular Technology Magazine, Communications Surveys and Tutorials, Physical Communications
