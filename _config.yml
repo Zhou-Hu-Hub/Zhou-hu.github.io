@@ -10,7 +10,7 @@ affiliation: University of Electronic Science and Technology of China (UESTC)
 subaffiliation: National Key Laboratory of Wireless Communications
 affiliation_link: https://www.uestc.edu.cn/
 subaffiliation_link: https://www.ncl.uestc.edu.cn/
-email: jiazhou.garland@gmail.com
+email: zhouhu6538@163.com
 # address: 180 Madision Ave, Suite 5-31C, New York, NY 10016
 # address_link: https://goo.gl/maps/aQZfmiKjQmqbDsVY9
 
@@ -34,8 +34,8 @@ github_link: https://github.com/Zhou-Hu-Hub
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/pic1.jpg
 # logo: ./assets/img/logo_hkust.png
-favicon: ./assets/img/logo_hkust.png
-favicon_dark: ./assets/img/logo_hkust.png
+favicon: ./assets/img/uestc_logo.png
+favicon_dark: ./assets/img/uestc_logo.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
