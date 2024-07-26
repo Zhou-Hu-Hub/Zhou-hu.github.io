@@ -4,18 +4,11 @@ layout: homepage
 
 ## About Me
 
-Hi! I'm now a fourth-year PhD student supervised by <a href="https://scholar.google.com/citations?user=HybIiJ8AAAAJ&hl">Prof. Ying-Chang Liang</a> at <a href="https://www.ncl.uestc.edu.cn/">National Key Laboratory of Wireless Communications</a>. I am also a visiting student under the supervision of Assoc Prof <a href="https://scholar.google.com/citations?user=7VLbLUMAAAAJ&hl=en&oi=ao">Prof. Chau Yuen</a> in the School of Electrical & Electronic Engineering, Nanyang Technological University (NTU).
+Hi! I'm now a fourth-year PhD student supervised by <a href="https://scholar.google.com/citations?user=HybIiJ8AAAAJ&hl">Prof. Ying-Chang Liang</a> at <a href="https://www.ncl.uestc.edu.cn/">National Key Laboratory of Wireless Communications</a>. I am also a visiting student under the supervision of <a href="https://scholar.google.com/citations?user=7VLbLUMAAAAJ&hl=en&oi=ao">Assoc Prof. Chau Yuen</a> in the School of Electrical & Electronic Engineering, Nanyang Technological University (NTU).
 
 ## Education
 - 2020.09 - Present, Ph.D. Candidate, Information and Communication Engineering, UESTC, China
 - 2016.09 - 2020.06, B.S., Communication Engineering, UESTC, China 
-
-{% include_relative _includes/Conference.md %}
-
-{% include_relative _includes/Journal.md %}
-
-<!-- ## Honors and Awards
-- 2023, National scholarship. -->
 
 
 ## Public Services
