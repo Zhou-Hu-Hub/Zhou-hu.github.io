@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi! I'm now the forth year PhD student supervised by <a href="https://scholar.google.com/citations?user=HybIiJ8AAAAJ&hl">Prof. Ying-Chang Liang**</a> at <a href="https://scholar.google.com/citations?user=HybIiJ8AAAAJ&hl=zh-CN">VLISLab</a>, <a href="https://www.hkust-gz.edu.cn/">The Hong Kong University of Science and Technology (Guangzhou)</a>. Currently, I am interested in Event-based vision and Multi-modal learning.
+Hi! I'm now the forth year PhD student supervised by <a href="https://scholar.google.com/citations?user=HybIiJ8AAAAJ&hl">Prof. Ying-Chang Liang**</a> at <a href="https://www.ncl.uestc.edu.cn/">National Key Laboratory of Wireless Communications</a>.
 
 {% include_relative _includes/projects.md %}
 
