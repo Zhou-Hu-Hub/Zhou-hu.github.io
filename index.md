@@ -6,16 +6,14 @@ layout: homepage
 
 Hi! I'm now the fourth year PhD student supervised by <a href="https://scholar.google.com/citations?user=HybIiJ8AAAAJ&hl">Prof. Ying-Chang Liang**</a> at <a href="https://www.ncl.uestc.edu.cn/">National Key Laboratory of Wireless Communications</a>.
 
-{% include_relative _includes/projects.md %}
-
-
-## Honors and Awards
-
-- 2022.06, Finalist Prize of Image Denoising Track (Top1.5%), ZTE Algorithm Competition.
-
-
 ## Education
 - 2020.06 - 2023.06, M.E., Optical Engineering, UESTC, China
+
+{% include_relative _includes/projects.md %}
+
+## Honors and Awards
+- 2022.06, Finalist Prize of Image Denoising Track (Top1.5%), ZTE Algorithm Competition.
+
 
 ## Public Services
 - Reviewer: IEEE TWC, TSP, TVT, TCCN, WCL, Vehicular Technology Magazine, Communications Surveys and Tutorials, Physical Communications
