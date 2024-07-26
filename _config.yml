@@ -1,15 +1,15 @@
-url: "https://jiazhou-garland.github.io/"
-baseurl: /jiazhou-garland.github.io
+url: "https://zhou-hu-hub.github.io/Zhou-hu.github.io/"
+baseurl: //zhou-hu-hub.github.io/Zhou-hu.github.io/
 # Basic Information 
-title: Garland Chou <br> 周佳舟
+title: Hu Zhou <br> 周虎
 # subtitle:
-position: RA
+position: PhD candidate
 # subposition: Chair of the Chinese Student and Scholar Association (CSSA)
 # subposition_link: https://nyu-medicine-cssa.github.io
-affiliation: Hong Kong University of Science and Technology (HKUST)
-subaffiliation: VLIS LAB  
-# affiliation_link: https://www.nyu.edu
-subaffiliation_link: https://vlislab22.github.io/vlislab/
+affiliation: University of Electronic Science and Technology of China (UESTC)
+subaffiliation: National Key Laboratory of Wireless Communications
+affiliation_link: https://www.uestc.edu.cn/
+subaffiliation_link: https://www.ncl.uestc.edu.cn/
 email: jiazhou.garland@gmail.com
 # address: 180 Madision Ave, Suite 5-31C, New York, NY 10016
 # address_link: https://goo.gl/maps/aQZfmiKjQmqbDsVY9
@@ -24,9 +24,9 @@ canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/citations?user=JQnsB8MAAAAJ&hl=en
-cv_link: assets/files/CV.pdf
-github_link: https://github.com/jiazhou-garland
+google_scholar: https://scholar.google.com/citations?user=eq9Nl-cAAAAJ&hl=zh-CN&oi=ao
+# cv_link: assets/files/CV.pdf
+github_link: https://github.com/Zhou-Hu-Hub
 # linkedin: https://www.linkedin.com/in/hanchao-ted-zhang-670105b7/?locale=en_US
 # twitter: https://twitter.com/tedddddy_zhang
 
